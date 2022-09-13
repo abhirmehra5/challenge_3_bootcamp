@@ -1,3 +1,3 @@
-# challenge_3_bootcamp
+# Challenge 3 Bootcamp
 
-crypto arbitrage through python
+Crypto pricing arbitrage
